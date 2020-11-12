@@ -1,6 +1,7 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello!, I am <a href="https://github.com/SimranjeetSingh5/SimranjeetSingh5">Simranjeet Singh</a></h1>
 </h1>
-### A little about me...  <img src="https://media.giphy.com/media/IcdIKJQbS7T9yNg0su/giphy.gif" width="50"> 
+
+### A little about me...  
 I'm a **Computer Engineering Undergrad Student🎓 [@Lovely_Professional_University](https://www.lpu.in/)**. I am an Android Developer and Learner and I'm here to support this and community.<br/><br/>
 
 ## ⚡️ A Few Quick Facts
