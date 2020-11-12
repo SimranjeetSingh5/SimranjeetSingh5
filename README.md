@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello!, I am <a href="https://github.com/SimranjeetSingh5/SimranjeetSingh5">Simranjeet Singh</a>></h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello!, I am <a href="https://github.com/SimranjeetSingh5/SimranjeetSingh5">Simranjeet Singh</a></h1>
 </h1>
 #### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/SimranjeetSingh5/SimranjeetSingh5)](https://github.com/SimranjeetSingh5/SimranjeetSingh5) 
