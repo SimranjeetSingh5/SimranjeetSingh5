@@ -1,4 +1,4 @@
-<a href ="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"></a>
+<a target="_blank" rel="noopener noreferer" href ="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"></a>
 Hello,I am
 <a href ="https://github.com/SimranjeetSingh5/SimranjeetSingh5">Simranjeet Singh</a>
 
