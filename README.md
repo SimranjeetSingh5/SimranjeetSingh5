@@ -2,7 +2,7 @@
 </h1>
 
 ### A little about me...  
-I'm a **Computer Science and Engineering Undergrad Student🎓 [@Lovely_Professional_University](https://www.lpu.in/)**. I am an Android Developer and Learner. I'm here to learn and contribute to this community.<br/><br/>
+I'm a **Computer Science and Engineering Undergrad Student🎓 at [@Lovely_Professional_University](https://www.lpu.in/)**. I am an Android Developer and Learner. I'm here to learn and contribute to this community.<br/><br/>
 
 ## ⚡️ A Few Quick Facts
 
