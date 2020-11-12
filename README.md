@@ -2,8 +2,7 @@
 </h1>
 #### 📬 Find me at
 
-<!--
-**SimranjeetSingh5/SimranjeetSingh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ## ⚡️ A Few Quick Facts
 
@@ -11,3 +10,5 @@
 - 🌱 I’m currently learning to build dynamic android apps.
 - 📝 My Resume [Resume](https://drive.google.com/file/d/18zczo9VgdycrMUHgfaKSIOXwqcDEc8OB/view?usp=sharing)
 - ⚡ Fun fact: "If you wouldn't ask you wouldn't know."
+<!--
+**SimranjeetSingh5/SimranjeetSingh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
