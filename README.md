@@ -11,6 +11,7 @@ I'm a **Computer Science and Engineering Undergrad Student🎓 at [@Lovely_Profe
 - 📝 My Resume [Resume](https://drive.google.com/file/d/18zczo9VgdycrMUHgfaKSIOXwqcDEc8OB/view?usp=sharing)
 - 📬 You can connect me at [LinkedIn](https://www.linkedin.com/in/simranjeetsingh05/)
 - ⚡ Fun fact: "If you wouldn't ask you wouldn't know."
+
+[![Simranjeet's github stats](https://github-readme-stats.vercel.app/api?username=SimranjeetSingh5)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SimranjeetSingh5/SimranjeetSingh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Simranjeet's github stats](https://github-readme-stats.vercel.app/api?username=SimranjeetSingh5)](https://github.com/anuraghazra/github-readme-stats)
