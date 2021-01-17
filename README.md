@@ -13,3 +13,4 @@ I'm a **Computer Science and Engineering Undergrad Student🎓 at [@Lovely_Profe
 - ⚡ Fun fact: "If you wouldn't ask you wouldn't know."
 <!--
 **SimranjeetSingh5/SimranjeetSingh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Simranjeet's github stats](https://github-readme-stats.vercel.app/api?username=SimranjeetSingh5)](https://github.com/anuraghazra/github-readme-stats)
