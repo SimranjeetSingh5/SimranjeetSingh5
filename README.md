@@ -7,7 +7,7 @@ I'm a **Computer Science and Engineering Undergrad Student🎓 at [@Lovely_Profe
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently working on various android projects
-- 🌱 I’m currently learning to build dynamic android apps.
+- 🌱 I’m currently learning to build android apps.
 - 📝 My Resume [Resume](https://drive.google.com/file/d/1BEOZvDNV1NbcArxZofBkCtOqBs1YHXWE/view?usp=sharing)
 - 📬 You can connect me at [LinkedIn](https://www.linkedin.com/in/simranjeetsingh05/)
 - ⚡ Fun fact: "If you wouldn't ask you wouldn't know."
