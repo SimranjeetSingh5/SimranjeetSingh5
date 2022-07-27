@@ -4,7 +4,6 @@
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m an Android Engineer
-- 🌱 I’m build .
 - 📝 My Resume [Resume](https://drive.google.com/file/d/1BEOZvDNV1NbcArxZofBkCtOqBs1YHXWE/view?usp=sharing)
 - 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/simranjeetsingh05/)
 - ⚡ Fun fact: "If you wouldn't ask you wouldn't know."
